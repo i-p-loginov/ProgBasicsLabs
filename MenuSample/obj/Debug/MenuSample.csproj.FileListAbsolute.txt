@@ -1,0 +1,7 @@
+c:\users\loga\documents\visual studio 2012\Projects\LabModels\MenuSample\bin\Debug\MenuSample.pdb
+c:\users\loga\documents\visual studio 2012\Projects\LabModels\MenuSample\obj\Debug\MenuSample.csprojResolveAssemblyReference.cache
+c:\users\loga\documents\visual studio 2012\Projects\LabModels\MenuSample\obj\Debug\MenuSample.pdb
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\MenuSample\obj\Debug\MenuSample.Strings.resources
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\MenuSample\obj\Debug\MenuSample.csproj.GenerateResource.Cache
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\MenuSample\bin\Debug\MenuSample.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\MenuSample\obj\Debug\MenuSample.exe

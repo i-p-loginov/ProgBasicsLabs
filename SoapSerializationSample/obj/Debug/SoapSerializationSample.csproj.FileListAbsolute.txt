@@ -1,0 +1,5 @@
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\SoapSerializationSample\bin\Debug\SoapSerializationSample.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\SoapSerializationSample\bin\Debug\SoapSerializationSample.pdb
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\SoapSerializationSample\obj\Debug\SoapSerializationSample.csprojResolveAssemblyReference.cache
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\SoapSerializationSample\obj\Debug\SoapSerializationSample.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\SoapSerializationSample\obj\Debug\SoapSerializationSample.pdb

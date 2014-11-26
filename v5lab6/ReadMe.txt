@@ -1,0 +1,1 @@
+﻿См. проект XmlSerialization (этот Solution)

@@ -1,0 +1,5 @@
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\CsvSerializationSample\bin\Debug\CsvSerializationSample.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\CsvSerializationSample\bin\Debug\CsvSerializationSample.pdb
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\CsvSerializationSample\obj\Debug\CsvSerializationSample.csprojResolveAssemblyReference.cache
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\CsvSerializationSample\obj\Debug\CsvSerializationSample.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\CsvSerializationSample\obj\Debug\CsvSerializationSample.pdb

@@ -1,0 +1,4 @@
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v8lab5\bin\Debug\v8lab5.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v8lab5\bin\Debug\v8lab5.pdb
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v8lab5\obj\Debug\v8lab5.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v8lab5\obj\Debug\v8lab5.pdb

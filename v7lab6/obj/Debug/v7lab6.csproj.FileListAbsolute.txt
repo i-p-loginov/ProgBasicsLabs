@@ -1,0 +1,5 @@
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v7lab6\bin\Debug\v7lab6.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v7lab6\bin\Debug\v7lab6.pdb
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v7lab6\obj\Debug\v7lab6.csprojResolveAssemblyReference.cache
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v7lab6\obj\Debug\v7lab6.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\v7lab6\obj\Debug\v7lab6.pdb

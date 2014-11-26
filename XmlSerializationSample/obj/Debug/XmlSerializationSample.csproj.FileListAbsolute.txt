@@ -1,0 +1,4 @@
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\XmlSerializationSample\bin\Debug\XmlSerializationSample.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\XmlSerializationSample\bin\Debug\XmlSerializationSample.pdb
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\XmlSerializationSample\obj\Debug\XmlSerializationSample.exe
+C:\Users\Loga\Documents\Visual Studio 2012\Projects\LabModels\XmlSerializationSample\obj\Debug\XmlSerializationSample.pdb

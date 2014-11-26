@@ -1,0 +1,1 @@
+﻿Шестая лабораторная работа: см. SoapSerializationSample
