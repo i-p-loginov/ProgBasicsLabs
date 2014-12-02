@@ -4,9 +4,10 @@ namespace CsvSerializationSample
 {
     public class Person
     {
-        //[CsvNonSerializable]
+        [CsvColumnOrder(3)]
         public string Name { get; set; }
 
+        [CsvNonSerializable]
         public double Age { get; set; }
 
         [CsvColumnOrder(2)]
