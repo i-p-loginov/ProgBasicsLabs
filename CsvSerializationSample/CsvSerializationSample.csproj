@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CsvColumnOrderAttribute.cs" />
+    <Compile Include="CsvNonSerializableAttribute.cs" />
+    <Compile Include="CsvSerializer.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
